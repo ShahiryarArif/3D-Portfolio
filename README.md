@@ -9,6 +9,9 @@ A modern React application for creating portfolio project.
 - **Tailwind** - Component library for building accessible React applications
 - **React Router** - Routing library for React applications
 - **React Three Fiber** - Library for rendering 3D graphics in reactjs project
+- **React Three Drei** - To convert non 3D elements and components into 3D
+- **Sketchfab** - For free 3D modals
+- **https://gltf.pmnd.rs/** - To convert GLTF models into React Three Fiber components to use in projects
 
 ## Prerequisites
 
