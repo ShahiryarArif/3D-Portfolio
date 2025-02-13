@@ -12,7 +12,7 @@ A modern React application for creating portfolio project.
 - **React Three Drei** - To convert non 3D elements and components into 3D
 - **Sketchfab** - For free 3D modals
 - **https://gltf.pmnd.rs/** - To convert GLTF models into React Three Fiber components to use in projects
-
+- **React Spring** - To have animation in our website
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
